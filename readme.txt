@@ -6,7 +6,7 @@ feeds confirmados pelo autor [call/feed]
 blacklist [call/feed]
 calcular o tempo total gasto
 
-numero inicial de tarefas =
-tempo máximo estimado inicialmente =
+numero inicial de tarefas = 6 tarefas
+tempo máximo estimado inicialmente = 6*10m = 60m
 tempo total gasto =
 numero final de tarefas =
